@@ -1,0 +1,80 @@
+.Edit{
+    position: absolute;
+    top: -5px;
+    right: 500px;
+    background-color: #9219e2;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.UP{
+    position: absolute;
+    top: -5px;
+    right: 415px;
+    background-color: #0b456b;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.DOWN{
+    position: absolute;
+    top: -5px;
+    right: 300px;
+    background-color: #2ba2c7; 
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.Done{
+    position: absolute;
+    top: -5px;
+    right: 200px;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.Delete{
+    position: absolute;
+    top: -5px;
+    right: 100px;
+    background-color: red;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
